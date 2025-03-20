@@ -1,0 +1,11 @@
+.form-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.form-container {
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+}
